@@ -9,5 +9,13 @@ Syllabus : https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS
 ```
 
 ----
+### sites for practising
 
 
+https://www.passnexam.com/amazon/saa-c03
+
+https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-associate-saa-c03/view/
+
+https://www.examsnet.com/exams/amazon-certification-practice-online
+
+https://www.awsboy.com/aws-practice-exams/solutions-architect-associate/
