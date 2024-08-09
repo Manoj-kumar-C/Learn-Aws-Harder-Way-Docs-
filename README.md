@@ -21,4 +21,4 @@ https://www.examsnet.com/exams/amazon-certification-practice-online
 https://www.awsboy.com/aws-practice-exams/solutions-architect-associate/
 
 
-Update some Infos Later
+Update some Infos Later Meoww . Blass
